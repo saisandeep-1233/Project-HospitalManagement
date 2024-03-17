@@ -43,11 +43,11 @@
             font-weight: bold;
             padding: 12px 24px;
             border-radius: 30px;
-            background-color: #007bff; /* Blue background */
+            background-color: #007bff;
             transition: background-color 0.3s ease;
         }
         .navitems a:hover {
-            background-color: #0056b3; /* Darker blue on hover */
+            background-color: #0056b3;
         }
         .content {
             text-align: left;
@@ -61,7 +61,7 @@
         }
         .content h2 {
             margin-bottom: 10px;
-            color: #007bff;
+            color: rgb(0, 123, 255);
         }
         .content ul {
             list-style-type: none;
