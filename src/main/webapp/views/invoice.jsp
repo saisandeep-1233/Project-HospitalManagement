@@ -19,7 +19,7 @@
         }
         .container {
             width: 80%;
-            max-width: 400px; /* Adjust as needed */
+            max-width: 400px;
             margin: auto;
             text-align: center;
         }
@@ -41,7 +41,7 @@
         p {
             margin-bottom: 10px;
             color: #333;
-            text-align: left; /* Align text to the left */
+            text-align: left;
         }
         input[type="text"] {
             width: calc(100% - 20px);

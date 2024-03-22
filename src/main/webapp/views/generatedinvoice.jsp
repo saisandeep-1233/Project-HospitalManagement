@@ -17,8 +17,8 @@
             height: 100vh;
         }
         .container {
-            width: 40%; /* Adjust width as needed */
-            margin: 10px; /* Added margin for spacing */
+            width: 40%;
+            margin: 10px;
             text-align: center;
             background-color: #fff;
             padding: 40px;

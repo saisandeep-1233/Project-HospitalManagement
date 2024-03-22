@@ -16,10 +16,10 @@
         }
         .container {
             max-width: 100vw;
-            margin: auto; /* Centering the container horizontally */
+            margin: auto;
             padding: 10px;
             text-align: center;
-            background-color: #ffffff; /* White background */
+            background-color: #ffffff;
             border-radius: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
@@ -52,7 +52,7 @@
         .content {
             text-align: left;
             margin-top: 50px;
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #f0f0f0;
             padding: 20px;
         }
         .content p {
